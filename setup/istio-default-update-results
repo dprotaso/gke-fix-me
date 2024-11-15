@@ -1,0 +1,135 @@
+run "1731203184-0" - time to ready: 353.213866ms
+run "1731203184-1" - time to update: 139.354096ms
+run "1731203184-2" - time to update: 140.984948ms
+run "1731203184-3" - time to update: 169.266265ms
+run "1731203184-4" - time to update: 151.008388ms
+run "1731203184-5" - time to update: 139.911071ms
+run "1731203184-6" - time to update: 147.251814ms
+run "1731203184-7" - time to update: 144.509986ms
+run "1731203184-8" - time to update: 117.356536ms
+run "1731203184-9" - time to update: 137.45112ms
+run "1731203184-10" - time to update: 143.341484ms
+run "1731203184-11" - time to update: 133.183066ms
+run "1731203184-12" - time to update: 151.847584ms
+run "1731203184-13" - time to update: 148.226376ms
+run "1731203184-14" - time to update: 138.113163ms
+run "1731203184-15" - time to update: 136.597341ms
+run "1731203184-16" - time to update: 133.734922ms
+run "1731203184-17" - time to update: 133.4461ms
+run "1731203184-18" - time to update: 144.000053ms
+run "1731203184-19" - time to update: 148.815786ms
+run "1731203184-20" - time to update: 137.716671ms
+run "1731203184-21" - time to update: 147.168469ms
+run "1731203184-22" - time to update: 117.343629ms
+run "1731203184-23" - time to update: 136.360701ms
+run "1731203184-24" - time to update: 152.620808ms
+run "1731203184-25" - time to update: 145.557418ms
+run "1731203184-26" - time to update: 153.63907ms
+run "1731203184-27" - time to update: 131.319875ms
+run "1731203184-28" - time to update: 143.992283ms
+run "1731203184-29" - time to update: 146.124642ms
+run "1731203184-30" - time to update: 154.998672ms
+run "1731203184-31" - time to update: 137.127463ms
+run "1731203184-32" - time to update: 155.225572ms
+run "1731203184-33" - time to update: 137.198551ms
+run "1731203184-34" - time to update: 146.366028ms
+run "1731203184-35" - time to update: 158.81895ms
+run "1731203184-36" - time to update: 139.764439ms
+run "1731203184-37" - time to update: 139.671535ms
+run "1731203184-38" - time to update: 136.908513ms
+run "1731203184-39" - time to update: 135.303051ms
+run "1731203184-40" - time to update: 142.972117ms
+run "1731203184-41" - time to update: 132.19897ms
+run "1731203184-42" - time to update: 152.105881ms
+run "1731203184-43" - time to update: 144.706674ms
+run "1731203184-44" - time to update: 144.973882ms
+run "1731203184-45" - time to update: 152.767263ms
+run "1731203184-46" - time to update: 140.410748ms
+run "1731203184-47" - time to update: 142.4901ms
+run "1731203184-48" - time to update: 146.46333ms
+run "1731203184-49" - time to update: 159.920131ms
+run "1731203184-50" - time to update: 140.269153ms
+run "1731203184-51" - time to update: 137.318407ms
+run "1731203184-52" - time to update: 135.793492ms
+run "1731203184-53" - time to update: 137.979789ms
+run "1731203184-54" - time to update: 149.201702ms
+run "1731203184-55" - time to update: 146.250354ms
+run "1731203184-56" - time to update: 145.858611ms
+run "1731203184-57" - time to update: 148.712269ms
+run "1731203184-58" - time to update: 141.058708ms
+run "1731203184-59" - time to update: 146.478003ms
+run "1731203184-60" - time to update: 118.04471ms
+run "1731203184-61" - time to update: 140.120413ms
+run "1731203184-62" - time to update: 142.691859ms
+run "1731203184-63" - time to update: 142.389153ms
+run "1731203184-64" - time to update: 154.672982ms
+run "1731203184-65" - time to update: 146.769075ms
+run "1731203184-66" - time to update: 148.24154ms
+run "1731203184-67" - time to update: 138.321448ms
+run "1731203184-68" - time to update: 146.988856ms
+run "1731203184-69" - time to update: 149.699659ms
+run "1731203184-70" - time to update: 150.286735ms
+run "1731203184-71" - time to update: 135.263267ms
+run "1731203184-72" - time to update: 139.157335ms
+run "1731203184-73" - time to update: 146.771713ms
+run "1731203184-74" - time to update: 145.459927ms
+run "1731203184-75" - time to update: 146.494311ms
+run "1731203184-76" - time to update: 146.028169ms
+run "1731203184-77" - time to update: 143.206173ms
+run "1731203184-78" - time to update: 136.384661ms
+run "1731203184-79" - time to update: 139.24368ms
+run "1731203184-80" - time to update: 142.215293ms
+run "1731203184-81" - time to update: 139.286612ms
+run "1731203184-82" - time to update: 141.032207ms
+run "1731203184-83" - time to update: 147.870178ms
+run "1731203184-84" - time to update: 143.721532ms
+run "1731203184-85" - time to update: 131.042343ms
+run "1731203184-86" - time to update: 146.687962ms
+run "1731203184-87" - time to update: 142.361305ms
+run "1731203184-88" - time to update: 146.468775ms
+run "1731203184-89" - time to update: 136.523008ms
+run "1731203184-90" - time to update: 140.04871ms
+run "1731203184-91" - time to update: 136.245877ms
+run "1731203184-92" - time to update: 150.095892ms
+run "1731203184-93" - time to update: 142.720449ms
+run "1731203184-94" - time to update: 140.930444ms
+run "1731203184-95" - time to update: 137.522093ms
+run "1731203184-96" - time to update: 137.991887ms
+run "1731203184-97" - time to update: 153.970781ms
+run "1731203184-98" - time to update: 137.727497ms
+run "1731203184-99" - time to update: 138.578312ms
+run "1731203184-100" - time to update: 143.283127ms
+
+{
+ "latencies": {
+  "total": 395493891842,
+  "mean": 48419918,
+  "50th": 45825418,
+  "90th": 51184128,
+  "95th": 52792381,
+  "99th": 85408154,
+  "max": 429261566,
+  "min": 38647046
+ },
+ "bytes_in": {
+  "total": 170634,
+  "mean": 20.890548481880508
+ },
+ "bytes_out": {
+  "total": 0,
+  "mean": 0
+ },
+ "earliest": "2024-11-09T20:46:28.465626675-05:00",
+ "latest": "2024-11-09T20:49:11.804722305-05:00",
+ "end": "2024-11-09T20:49:11.847709128-05:00",
+ "duration": 163339095630,
+ "wait": 42986823,
+ "requests": 8168,
+ "rate": 50.006399071183594,
+ "throughput": 49.99324208240326,
+ "success": 1,
+ "status_codes": {
+  "200": 8168
+ },
+ "errors": []
+}

@@ -1,0 +1,11 @@
+providers:
+  kubernetesIngress:
+    enabled: false
+  kubernetesGateway:
+    enabled: true
+
+gateway:
+  enabled: true
+  name: "gateway"
+  namespace: "default"
+  namespacePolicy: All
